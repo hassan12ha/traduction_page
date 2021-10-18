@@ -172,3 +172,65 @@ span {
   cursor: pointer;
   transition: 0.08s;
 }
+ @media screen and (max-width: 1024px) {
+  .data2{
+    font-size: 13px;
+    width: 100%;
+    justify-self: center;
+  }
+  .data3{
+    width: 100%;
+  }
+  .data3 #title2{
+    font-size: 17px;
+  }
+  .data3 #btn2{
+    font-size: 18px;
+    padding: 15px 50px;
+  }
+} 
+@media screen and (max-width: 700px) {
+  .nav{
+    width: 95%;
+  }
+
+  .imgg img{
+    width: 50px;
+  }
+  #nom{
+    font-size: 12px;
+  }
+  .btns #arabic{
+    padding: 5px 18px;
+    font-size: 12px;
+  }
+  .btns #english{
+    padding: 5px 18px;
+    font-size: 12px;
+  }
+  .data2{
+    font-size: 9px;
+    width: 100%;
+    justify-self: center;
+  }
+
+  .data3 #title2{
+    font-size: 13px;
+  }
+  .data3 #btn2{
+    font-size: 18px;
+    padding: 8px 20px;
+    font-size: 12px;
+  }
+ 
+
+} 
+@media screen and (max-width: 700px){
+  .data2{
+    font-size: 7px;
+   
+  }
+  .data3 #title2{
+    font-size: 10px;
+  }
+}

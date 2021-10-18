@@ -78,12 +78,7 @@ span {
   background-color: rgb(202, 17, 17);
   color: #fff;
 }
-/* @media screen and (min-width: 1024px) {
-  .bd-grid {
-    margin-right: auto;
-    margin-left: auto;
-  }
-} */
+
 .data img {
   border-radius: 40px;
   margin-top: 30px;

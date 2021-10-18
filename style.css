@@ -22,8 +22,8 @@ img {
   display: grid;
   grid-template-columns: 100%;
   width: 80%;
-  margin-left: 16px;
-  margin-right: 16px;
+  margin-right: auto;
+    margin-left: auto;
 }
 .head {
   width: 100%;
@@ -78,12 +78,7 @@ span {
   background-color: rgb(202, 17, 17);
   color: #fff;
 }
-@media screen and (min-width: 1024px) {
-  .bd-grid {
-    margin-right: auto;
-    margin-left: auto;
-  }
-}
+
 .data img {
   border-radius: 40px;
   margin-top: 30px;
